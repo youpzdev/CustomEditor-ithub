@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2952e522185f78d41a39507bcdbe3299, type: 3}
+  m_Name: IdleShake
+  m_EditorClassIdentifier: 
+  duration: 0.65
+  delay: 0
+  ease: 1
+  unscaledTime: 1
+  loops: -1
+  loopType: 0
+  effect: 6
+  vector: {x: 1.5, y: 1.5, z: 0}
+  amount: 1
+  relative: 1
+  localSpace: 1
+  color: {r: 1, g: 1, b: 1, a: 1}
+  points: []
+  vibrato: 10
+  elasticity: 1
+  randomness: 90
+  fadeOut: 1
+  jumps: 1
+  pathType: 1
+  pathMode: 1
